@@ -1,5 +1,4 @@
-[
-   {
+{
       "Id":"Q1",
       "Q":"What is the Capital of India ? ",
       "Answers":{
@@ -79,4 +78,3 @@
       },
       "correctAns":"a"
    }
-]
