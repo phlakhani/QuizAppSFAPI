@@ -1,0 +1,82 @@
+[
+   {
+      "Id":"Q1",
+      "Q":"What is the Capital of India ? ",
+      "Answers":{
+         "a":"New Delhi",
+         "b":"Mumbai",
+         "c":"Chennai"
+      },
+      "correctAns":"a"
+   },
+   {
+      "Id":"Q2",
+      "Q":"What is the National Animal of India ? ",
+      "Answers":{
+         "a":"Elephant",
+         "b":"Lion",
+         "c":"Tiger"
+      },
+      "correctAns":"c"
+   },
+   {
+      "Id":"Q3",
+      "Q":"What is the National Bird of India ? ",
+      "Answers":{
+         "a":"Sparrow",
+         "b":"Peacock",
+         "c":"Parrot"
+      },
+      "correctAns":"b"
+   },
+   {
+      "Id":"Q4",
+      "Q":"which of the following is not Union territory of India ? ",
+      "Answers":{
+         "a":"Puducherry",
+         "b":"Andaman & Nicobar Island",
+         "c":"Tripura"
+      },
+      "correctAns":"c"
+   },
+   {
+      "Id":"Q5",
+      "Q":"Which of following Indian state is smallest one by population ? ",
+      "Answers":{
+         "a":"Sikkim",
+         "b":"Goa",
+         "c":"Meghalay"
+      },
+      "correctAns":"a"
+   },
+   {
+      "Id":"Q6",
+      "Q":"Which of the following India state has longest coastline area ? ",
+      "Answers":{
+         "a":"Tamilnadu",
+         "b":"Andra Pradesh",
+         "c":"Gujarat"
+      },
+      "correctAns":"c"
+   },
+   {
+      "Id":"Q7",
+      "Q":"According to Indian constitution, which of the following is considered as Head of the State in India ? ",
+      "Answers":{
+         "a":"Prime Minister",
+         "b":"President",
+         "c":"Chief Minister"
+      },
+      "correctAns":"b"
+   },
+   {
+      "Id":"Q8",
+      "Q":"Which Indian state touches Himalayan Mountain range ? ",
+      "Answers":{
+         "a":"Himarchal Pradesh",
+         "b":"Hariyana",
+         "c":"Assam"
+      },
+      "correctAns":"a"
+   }
+]
